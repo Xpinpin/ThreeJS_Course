@@ -1,0 +1,587 @@
+{
+  "clients": [
+    {
+      "id": "0f757ba0b2bd4136bdaa0974d32edb3e",
+      "attributes": {
+        "ItemID": {
+          "accessType": 0,
+          "dataType": 7,
+          "value": "0f757ba0-b2bd-4136-bdaa-0974d32edb3e"
+        },
+        "ArchetypeCode": { "accessType": 0, "dataType": 15, "value": "Client" },
+        "CurrProcItemID": {
+          "aliasValue": "c70cf5d8-aadf-4fac-88fa-4d6123d7be5f",
+          "dataType": 7,
+          "value": "c70cf5d8-aadf-4fac-88fa-4d6123d7be5f"
+        },
+        "LastProcItemID": {
+          "aliasValue": "6fb22cbd-ba19-46f8-bf3f-02d7ef596b5a",
+          "dataType": 7,
+          "value": "6fb22cbd-ba19-46f8-bf3f-02d7ef596b5a"
+        },
+        "OrigProcItemID": { "dataType": 7 },
+        "HasAttachments": { "dataType": 1, "value": "0" },
+        "TimeStamp": {
+          "accessType": 2,
+          "dataType": 3,
+          "displayValue": "10/29/2020 11:41:55 AM",
+          "value": "2020-10-29T16:41:55"
+        },
+        "Entity": {
+          "accessType": 0,
+          "aliasValue": "QHO Strong Level Data",
+          "dataType": 8,
+          "value": "6"
+        },
+        "ClientIndex": { "accessType": 2, "dataType": 19, "value": "1" },
+        "Number": { "accessType": 2, "dataType": 15, "value": "0001" },
+        "AltNumber": { "dataType": 15 },
+        "DisplayName": {
+          "accessType": 0,
+          "dataType": 15,
+          "value": "QHO Strong Level Data"
+        },
+        "SortString": { "dataType": 15 },
+        "RelatedClient": { "aliasValue": "0001", "dataType": 8, "value": "1" },
+        "CliType": { "aliasValue": "", "dataType": 15 },
+        "CliStatusType": {
+          "accessType": 0,
+          "aliasValue": "Current - Direct",
+          "dataType": 15,
+          "value": "CURRENT_DIR"
+        },
+        "CliStatusDate": {
+          "accessType": 0,
+          "dataType": 2,
+          "displayValue": "3/1/2018",
+          "value": "2018-03-01"
+        },
+        "CreditLimit": { "dataType": 10 },
+        "Currency": { "dataType": 15, "value": "GBP" },
+        "CurrencyDate": {
+          "dataType": 2,
+          "displayValue": "3/1/2018",
+          "value": "2018-03-01"
+        },
+        "OpenDate": {
+          "accessType": 0,
+          "dataType": 2,
+          "displayValue": "3/1/2018",
+          "value": "2018-03-01"
+        },
+        "InvoiceSite": {
+          "accessType": 0,
+          "aliasValue": "QHO Strong Level Data",
+          "dataType": 8,
+          "value": "10"
+        },
+        "StatementSite": {
+          "aliasValue": "QHO Strong Level Data",
+          "dataType": 8,
+          "value": "10"
+        },
+        "ContactInfo": { "dataType": 15 },
+        "Industry": { "aliasValue": "", "dataType": 15 },
+        "Narrative": { "dataType": 12, "displayValue": "" },
+        "Language": { "aliasValue": "", "dataType": 8 },
+        "IsPayor": { "accessType": 0, "dataType": 1, "value": "1" },
+        "PayorIndex": { "dataType": 8, "value": "1" },
+        "BillingInstruc": { "dataType": 15 },
+        "Description": { "dataType": 15 },
+        "OpenTkpr": {
+          "accessType": 0,
+          "aliasValue": "001",
+          "dataType": 8,
+          "value": "1"
+        },
+        "CloseTkpr": { "aliasValue": "", "dataType": 8 },
+        "CloseDate": { "accessType": 2, "dataType": 2, "value": "" },
+        "IsAutoNumbering": { "accessType": 3, "dataType": 1 },
+        "BillDCSTemplate": { "aliasValue": "", "dataType": 7 },
+        "StmtDCSTemplate": { "aliasValue": "", "dataType": 7 },
+        "Country": {
+          "aliasValue": "United Kingdom",
+          "dataType": 15,
+          "value": "GBR"
+        },
+        "CliAttribute": { "aliasValue": "", "dataType": 15 },
+        "CliCategory": { "aliasValue": "", "dataType": 15 },
+        "EntryDate": { "dataType": 2, "value": "" },
+        "VATRegistration": { "dataType": 15 },
+        "IsEngageLetterReq": { "accessType": 0, "dataType": 1, "value": "1" },
+        "EngageLetterSubDate": { "dataType": 2, "value": "" },
+        "EngageLetterRecDate": { "dataType": 2, "value": "" },
+        "EngageLetterComment": { "dataType": 15 },
+        "IsWaiverLetterReq": { "accessType": 0, "dataType": 1, "value": "1" },
+        "WaiverLetterSubDate": { "dataType": 2, "value": "" },
+        "WaiverLetterRecDate": { "dataType": 2, "value": "" },
+        "WaiverLetterComment": { "dataType": 15 },
+        "IsConflictsConfidential": {
+          "accessType": 0,
+          "dataType": 1,
+          "value": "0"
+        },
+        "ApproveTkpr": { "aliasValue": "", "dataType": 8 },
+        "ConflictStatus": { "aliasValue": "", "dataType": 15 },
+        "ProfDCSTemplate": { "aliasValue": "", "dataType": 7 },
+        "IsIdentified": { "accessType": 0, "dataType": 1, "value": "0" },
+        "IdentificationDate": { "dataType": 2, "value": "" },
+        "VolumeDiscountGroup": { "aliasValue": "", "dataType": 15 },
+        "IsEBill": { "accessType": 0, "dataType": 1, "value": "0" },
+        "DueDays": { "dataType": 8, "value": "50" },
+        "ApproveDate": { "dataType": 2, "value": "" },
+        "IsOrigClosedStatus": { "dataType": 1, "value": "0" },
+        "IsNumberEnabled": { "dataType": 1 },
+        "IsCreateTaxInvOnRcpt": {
+          "accessType": 0,
+          "dataType": 1,
+          "value": "0"
+        },
+        "IsICB": { "accessType": 0, "dataType": 1, "value": "0" },
+        "ICBUnit": { "aliasValue": "", "dataType": 15 },
+        "IsAfterCloneToBeRun": { "accessType": 3, "dataType": 1 },
+        "StmtSitePrimPhone": { "accessType": 2, "dataType": 15 },
+        "InvSitePrimPhone": { "accessType": 2, "dataType": 15 },
+        "PayorTaxArea": {
+          "accessType": 2,
+          "aliasValue": "United Kingdom",
+          "dataType": 15,
+          "value": "GBR01"
+        },
+        "PayorTaxNum": { "accessType": 2, "dataType": 15 },
+        "IsNewEntity": { "dataType": 1 },
+        "NewEntityIndex": { "dataType": 8 },
+        "LoadGroup": { "dataType": 15 },
+        "LoadNumber": { "dataType": 15 },
+        "LoadSource": { "dataType": 15, "value": "KS" },
+        "EbillValidationList": { "accessType": 3, "dataType": 15 },
+        "RSSFeed": { "dataType": 15 },
+        "TickerSymbol": { "dataType": 15 },
+        "URL": { "dataType": 15 },
+        "CreditNoteDCSTemplate": { "aliasValue": "", "dataType": 7 },
+        "BillGroupDCSTemplate": { "aliasValue": "", "dataType": 7 },
+        "CreditNoteGroupDCSTemplate": { "aliasValue": "", "dataType": 7 },
+        "EBHClientList": { "aliasValue": "", "dataType": 8 },
+        "IsExportRestricted": { "accessType": 0, "dataType": 1, "value": "0" },
+        "VATRegistrationSeq": { "dataType": 15 },
+        "IsEbhAttachments": { "accessType": 2, "dataType": 1, "value": "0" },
+        "CliElecBillingType": { "aliasValue": "", "dataType": 15 },
+        "CliElecCostTypeMap": { "dataType": 15 },
+        "CliElecTitleMap": { "dataType": 15 },
+        "CliElecTaxCodeMap": { "dataType": 15 },
+        "EBHArrangement": { "aliasValue": "", "dataType": 15 },
+        "Entity1.EntityName": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "QHO Strong Level Data"
+        },
+        "Entity1.EntIndex": { "accessType": 2, "dataType": 19, "value": "6" },
+        "RelatedClient1.RelatedClientName": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "QHO Strong Level Data"
+        },
+        "RelatedClient1.VolumeDiscountGroup": {
+          "accessType": 2,
+          "aliasValue": "",
+          "dataType": 15
+        },
+        "RelatedClient1.Description": { "accessType": 2, "dataType": 15 },
+        "RelatedClient1.VolumeDiscountRel.Description": {
+          "accessType": 2,
+          "dataType": 15
+        },
+        "RelatedClient1.Number": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "0001"
+        },
+        "CliType1.Description": { "accessType": 2, "dataType": 15 },
+        "CliStatusType1.IsClosed": {
+          "accessType": 2,
+          "dataType": 1,
+          "value": "0"
+        },
+        "CliStatusType1.Description": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "Current - Direct"
+        },
+        "InvoiceSite1.InvoiceAddressND": {
+          "accessType": 2,
+          "aliasValue": "6212 Alphagate Dr",
+          "dataType": 8,
+          "value": "11"
+        },
+        "InvoiceSite1.Address1.InvoiceAddress": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "6212 Alphagate Dr\nLondon\nO15 7LP\n"
+        },
+        "InvoiceSite1.Address1.Street": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "6212 Alphagate Dr"
+        },
+        "InvoiceSite1.Description": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "QHO Strong Level Data"
+        },
+        "StatementSite1.StJoinNoDisplay": {
+          "accessType": 2,
+          "aliasValue": "6212 Alphagate Dr",
+          "dataType": 8,
+          "value": "11"
+        },
+        "StatementSite1.Relate": {
+          "accessType": 2,
+          "aliasValue": "Self",
+          "dataType": 8,
+          "value": "6"
+        },
+        "StatementSite1.Address1.StatementAddress": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "6212 Alphagate Dr\nLondon\nO15 7LP\n"
+        },
+        "StatementSite1.Address1.Street": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "6212 Alphagate Dr"
+        },
+        "StatementSite1.Relate1.SbjEntity": {
+          "accessType": 2,
+          "aliasValue": "QHO Strong Level Data",
+          "dataType": 8,
+          "value": "6"
+        },
+        "StatementSite1.Relate1.SbjEntity1.DisplayName": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "QHO Strong Level Data"
+        },
+        "StatementSite1.Relate1.Description": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "Self"
+        },
+        "StatementSite1.Description": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "QHO Strong Level Data"
+        },
+        "Industry1.Description": { "accessType": 2, "dataType": 15 },
+        "Language1.Description": { "accessType": 2, "dataType": 15 },
+        "OpenTkprRel.DisplayName": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "Angel Huerta"
+        },
+        "OpenTkprRel.Number": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "001"
+        },
+        "CloseTkprRel.DisplayName": { "accessType": 2, "dataType": 15 },
+        "CloseTkprRel.Number": { "accessType": 2, "dataType": 15 },
+        "BillDCSTemplateRel.Name": { "accessType": 2, "dataType": 15 },
+        "StmtDCSTemplateRel.Name": { "accessType": 2, "dataType": 15 },
+        "CountryRel.Description": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "United Kingdom"
+        },
+        "CliAttributeRel.Description": { "accessType": 2, "dataType": 15 },
+        "CliCategoryRel.Description": { "accessType": 2, "dataType": 15 },
+        "ApproveTkprRel.Number": { "accessType": 2, "dataType": 15 },
+        "ConflictStatusRel.Description": { "accessType": 2, "dataType": 15 },
+        "ProfDCSTemplateRel.Name": { "accessType": 2, "dataType": 15 },
+        "VolumeDiscountRel.Description": { "accessType": 2, "dataType": 15 },
+        "ICBUnitRel1.Description": { "accessType": 2, "dataType": 15 },
+        "TaxAreaRel.Description": {
+          "accessType": 2,
+          "dataType": 15,
+          "value": "United Kingdom"
+        },
+        "CreditNoteDCSTemplateRel.Name": { "accessType": 2, "dataType": 15 },
+        "BillGroupDCSTemplateRel1.Name": { "accessType": 2, "dataType": 15 },
+        "CreditNoteGroupDCSTemplateRel.Name": {
+          "accessType": 2,
+          "dataType": 15
+        },
+        "EBHClientListRel.EBHClientNum": { "accessType": 2, "dataType": 8 },
+        "EBHClientListRel.EBHClientName": { "accessType": 2, "dataType": 15 },
+        "CliElecBillingTypeRel.Description": {
+          "accessType": 2,
+          "dataType": 15
+        },
+        "EBHArrangementRel.EBHArrangementDesc": {
+          "accessType": 2,
+          "dataType": 15
+        },
+        "IsMngdServices_CCC": { "dataType": 1 },
+        "IsMstrServices_CCC": { "dataType": 1 },
+        "MngdServicesEndDate_CCC": { "dataType": 2, "value": "" },
+        "MngdServicesNotes_CCC": { "dataType": 15 },
+        "MngdServicesStartDate_CCC": { "dataType": 2, "value": "" },
+        "MstrServicesEndDate_CCC": { "dataType": 2, "value": "" },
+        "MstrServicesNotes_CCC": { "dataType": 15 },
+        "MstrServicesStartDate_CCC": { "dataType": 2, "value": "" }
+      },
+      "childObjects": [
+        {
+          "id": "CliDate",
+          "objectId": "CliDate",
+          "actualRowCount": 1,
+          "rows": [
+            {
+              "id": "eb308dfffac247f88e816f6c823f5d4a",
+              "attributes": {
+                "ItemID": {
+                  "accessType": 2,
+                  "dataType": 7,
+                  "value": "eb308dff-fac2-47f8-8e81-6f6c823f5d4a"
+                },
+                "ArchetypeCode": {
+                  "accessType": 0,
+                  "dataType": 15,
+                  "value": "CliDate"
+                },
+                "CurrProcItemID": { "dataType": 7 },
+                "LastProcItemID": { "dataType": 7 },
+                "OrigProcItemID": { "dataType": 7 },
+                "HasAttachments": { "dataType": 1, "value": "0" },
+                "TimeStamp": {
+                  "accessType": 2,
+                  "dataType": 3,
+                  "displayValue": "3/27/2018 8:41:05 AM",
+                  "value": "2018-03-27T14:41:05"
+                },
+                "ClientLkUp": { "accessType": 3, "dataType": 8 },
+                "EffStart": {
+                  "accessType": 0,
+                  "dataType": 2,
+                  "displayValue": "3/1/2018",
+                  "value": "2018-03-01"
+                },
+                "Office": {
+                  "accessType": 0,
+                  "aliasValue": "Pinnacle",
+                  "dataType": 15,
+                  "value": "10"
+                },
+                "TkprTeam": { "aliasValue": "", "dataType": 15 },
+                "Arrangement": { "aliasValue": "", "dataType": 15 },
+                "RspTkpr": {
+                  "accessType": 0,
+                  "aliasValue": "001",
+                  "dataType": 8,
+                  "value": "1"
+                },
+                "BillTkpr": {
+                  "accessType": 0,
+                  "aliasValue": "001",
+                  "dataType": 8,
+                  "value": "1"
+                },
+                "SpvTkpr": {
+                  "accessType": 0,
+                  "aliasValue": "001",
+                  "dataType": 8,
+                  "value": "1"
+                },
+                "NxStartDate": {
+                  "accessType": 2,
+                  "dataType": 2,
+                  "displayValue": "3/1/2018",
+                  "value": "2018-03-01"
+                },
+                "Client.Number": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "0001"
+                },
+                "Office1.Description": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "Pinnacle"
+                },
+                "TkprTeam1.Description": { "accessType": 2, "dataType": 15 },
+                "Arrangement1.Description": { "accessType": 2, "dataType": 15 },
+                "RspTimekeeper.TkprName": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "Angel Huerta"
+                },
+                "RspTimekeeper.DisplayName": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "Angel Huerta"
+                },
+                "RspTimekeeper.Number": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "001"
+                },
+                "BillTkprRel.DisplayName": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "Angel Huerta"
+                },
+                "BillTkprRel.Number": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "001"
+                },
+                "SpvTkprRel.DisplayName": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "Angel Huerta"
+                },
+                "SpvTkprRel.Number": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "001"
+                }
+              },
+              "childObjects": [
+                { "id": "CliOrgTkpr", "objectId": "CliOrgTkpr", "rows": [] },
+                { "id": "CliPlfrTkpr", "objectId": "CliPlfrTkpr", "rows": [] },
+                { "id": "CliSpvTkpr", "objectId": "CliSpvTkpr", "rows": [] }
+              ],
+              "index": 0,
+              "subclassId": "CliDate"
+            }
+          ]
+        },
+        { "id": "RateExc", "objectId": "RateExc", "rows": [] },
+        {
+          "id": "CliBillingContact",
+          "objectId": "CliBillingContact",
+          "actualRowCount": 1,
+          "rows": [
+            {
+              "id": "2aa10a4681db45f8a91a7c420e44eeea",
+              "attributes": {
+                "ItemID": {
+                  "accessType": 2,
+                  "dataType": 7,
+                  "value": "2aa10a46-81db-45f8-a91a-7c420e44eeea"
+                },
+                "ArchetypeCode": {
+                  "accessType": 0,
+                  "dataType": 15,
+                  "value": "CliBillingContact"
+                },
+                "CurrProcItemID": { "dataType": 7 },
+                "LastProcItemID": {
+                  "aliasValue": "40b8beec-fa52-4203-80a0-99913fa38fb4",
+                  "dataType": 7,
+                  "value": "40b8beec-fa52-4203-80a0-99913fa38fb4"
+                },
+                "OrigProcItemID": {
+                  "aliasValue": "40b8beec-fa52-4203-80a0-99913fa38fb4",
+                  "dataType": 7,
+                  "value": "40b8beec-fa52-4203-80a0-99913fa38fb4"
+                },
+                "HasAttachments": { "dataType": 1, "value": "0" },
+                "TimeStamp": {
+                  "accessType": 2,
+                  "dataType": 3,
+                  "displayValue": "8/5/2020 9:33:41 AM",
+                  "value": "2020-08-05T15:33:41"
+                },
+                "Client": { "accessType": 3, "dataType": 8 },
+                "StartDate": { "dataType": 2, "value": "" },
+                "FinishDate": { "dataType": 2, "value": "" },
+                "EntityPerson": {
+                  "accessType": 0,
+                  "aliasValue": "Kristin Edna Scudder",
+                  "dataType": 8,
+                  "value": "852"
+                },
+                "BillingContactType": {
+                  "accessType": 0,
+                  "aliasValue": "Client Central AP",
+                  "dataType": 15,
+                  "value": "CLIENT_AP"
+                },
+                "EntityPosition": { "dataType": 15 },
+                "IsDefaultBillingContact": {
+                  "accessType": 0,
+                  "dataType": 1,
+                  "value": "0"
+                },
+                "IsDefaultCollectionContact": {
+                  "accessType": 0,
+                  "dataType": 1,
+                  "value": "0"
+                },
+                "Client1.Number": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "0001"
+                },
+                "EntityPerson1.ContactName": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "Kristin Edna Scudder"
+                },
+                "EntityPerson1.DisplayName": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "Kristin Edna Scudder"
+                },
+                "BillingContactTypeRel.Code": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "CLIENT_AP"
+                },
+                "BillingContactTypeRel.Description": {
+                  "accessType": 2,
+                  "dataType": 15,
+                  "value": "Client Central AP"
+                }
+              },
+              "index": 0,
+              "subclassId": "CliBillingContact"
+            }
+          ]
+        },
+        { "id": "ClientRateExc", "objectId": "ClientRateExc", "rows": [] },
+        {
+          "id": "CliTemplateOption",
+          "objectId": "CliTemplateOption",
+          "rows": []
+        },
+        { "id": "CliProfAdjust", "objectId": "CliProfAdjust", "rows": [] },
+        {
+          "id": "MaskOverrideValues",
+          "objectId": "MaskOverrideValues",
+          "rows": []
+        },
+        { "id": "MattFlatFee", "objectId": "MattFlatFee", "rows": [] },
+        { "id": "CliEBillValList", "objectId": "CliEBillValList", "rows": [] },
+        {
+          "id": "TimeTypeGroupClient",
+          "objectId": "TimeTypeGroupClient",
+          "rows": []
+        },
+        {
+          "id": "ClientAdditionalInfo",
+          "objectId": "ClientAdditionalInfo",
+          "rows": []
+        },
+        {
+          "id": "CliAltBillArrange",
+          "objectId": "CliAltBillArrange",
+          "rows": []
+        }
+      ],
+      "index": 0,
+      "subclassId": "Client"
+    }
+  ],
+  "success": true
+}
